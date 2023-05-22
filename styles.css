@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
-.container {
+.main {
   width: 200px;
   background-color: rgb(128, 0, 128);
 }
 
-.main {
-	width: 200px;
+.container {
+width: 200px;
   border-left: 5px solid green;
   padding: 10px;
 }
